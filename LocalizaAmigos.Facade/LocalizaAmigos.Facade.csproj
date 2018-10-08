@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LocalizaAmigos.Comum\LocalizaAmigos.Comum.csproj" />
+    <ProjectReference Include="..\LocalizaAmigos.Negocio\LocalizaAmigos.Negocio.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\LocalizaAmigos.Test.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\LocalizaAmigos.Test.pdb
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\obj\Debug\LocalizaAmigos.Test.csproj.CoreCompileInputs.cache
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\obj\Debug\LocalizaAmigos.Test.csproj.CopyComplete
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\obj\Debug\LocalizaAmigos.Test.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\obj\Debug\LocalizaAmigos.Test.pdb
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Test\obj\Debug\LocalizaAmigos.Test.csprojResolveAssemblyReference.cache

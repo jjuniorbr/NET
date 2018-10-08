@@ -1,0 +1,16 @@
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Facade.deps.json
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Facade.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Facade.pdb
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\obj\Debug\netstandard2.0\LocalizaAmigos.Facade.csprojResolveAssemblyReference.cache
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\obj\Debug\netstandard2.0\LocalizaAmigos.Facade.csproj.CoreCompileInputs.cache
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\obj\Debug\netstandard2.0\LocalizaAmigos.Facade.AssemblyInfoInputs.cache
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\obj\Debug\netstandard2.0\LocalizaAmigos.Facade.AssemblyInfo.cs
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\obj\Debug\netstandard2.0\LocalizaAmigos.Facade.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\obj\Debug\netstandard2.0\LocalizaAmigos.Facade.pdb
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Comum.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Negocio.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Persistencia.dll
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Comum.pdb
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Negocio.pdb
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\bin\Debug\netstandard2.0\LocalizaAmigos.Persistencia.pdb
+E:\Fontes\LocalizaAmigos\LocalizaAmigos.Facade\obj\Debug\netstandard2.0\LocalizaAmigos.Facade.csproj.CopyComplete
